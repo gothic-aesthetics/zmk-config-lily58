@@ -68,7 +68,7 @@
         layer3 {
             bindings = <
 &trans  &none  &none  &none   &none   &none                     &none   &none   &none   &none  &none  &none
-&none   &none  &none  &none   &none   &none                     &none   &none   &none   &none  &none  &none
+&trans  &none  &none  &none   &none   &none                     &none   &none   &none   &none  &none  &none
 &none   &none  &none  &none   &none   &none                     &none   &none   &none   &none  &none  &none
 &none   &none  &none  &none   &none   &none   &none     &none   &none   &none   &none   &none  &none  &none
                       &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans
